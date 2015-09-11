@@ -27,4 +27,5 @@ Pod::Spec.new do |s|
   s.dependency 'Mantle', '~> 1.4'
   s.dependency 'SDWebImage', '~> 3.6'
   s.dependency 'FormatterKit/TimeIntervalFormatter', '~> 1.4'
+  s.dependency 'Bolts', '~> 1.2.2'
 end
